@@ -1,0 +1,42 @@
+# Delphi compiler-generated files
+*.exe
+*.dll
+*.dcu
+*.o
+*.so
+*.a
+*.lib
+*.dpu
+*.map
+*.drc
+*.res
+__history/
+__recovery/
+*.local
+
+# IDE files
+.idea/
+.vscode/
+*.rsm
+*.bak
+*.bk1
+*.bk2
+*.bk3
+
+# Build output
+Win32/
+Win64/
+Release/
+Debug/
+Bin/
+Lib/
+
+# Documentation
+*.chm
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# High score file (local save)
+snake_highscore.txt
